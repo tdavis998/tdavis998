@@ -4,8 +4,8 @@
 <body>
   
 <head>
-  <title> The Life of Tra-C Davis</title>
-  <meta charset='UTF-8">
+ The Life of Tra-C Davis
+  <meta charset='UTF-40">
                  </head>
   
   
