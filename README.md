@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <HTML>
 
-<title The Life of Tra-C Davis</title>
+<title> The Life of Tra-C Davis</title>
 <meta charset="UTF-8">
 
 <head>
