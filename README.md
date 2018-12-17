@@ -5,7 +5,7 @@
   
 <head>
  The Life of Tra-C Davis
-  <meta charset='UTF-40">
+  <meta charset='UTF-6000">
                  </head>
   
   
